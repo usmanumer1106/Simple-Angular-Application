@@ -1,3 +1,5 @@
+Copy this Folder and open in vs code, open termical any type npm install, after compiton type npm start
+
 # Apm
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
